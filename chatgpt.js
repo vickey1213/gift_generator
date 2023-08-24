@@ -22,9 +22,10 @@ const express = require("express");
 const { Configuration, OpenAIApi } = require("openai");
 
 const router = express.Router();
+const { apiKey } = require("./config");
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: apiKey,
 });
 // console.log("OPENAI_API_KEY, ", process.env.APIKEY);
 const openai = new OpenAIApi(configuration);
