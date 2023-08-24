@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Dress",
+    "price": "500",
+    "previous_price": "600",
+    "condition": "good",
+    "rating": "5 stars",
+    "Reviews": "good store",
+    "store_rating": "5 stars",
+    "store_review": "5 stars",
+    "no_of_comparisons": "5",
+    "description": "this product is useful in kitchen",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VcNRunoEmJ76urHT9rCCYB-1280-80.jpg.webp"
+  },
+  {
+    "title": "Shoes",
+    "price": "400",
+    "previous_price": "700",
+    "condition": "average",
+    "rating": "4 stars",
+    "Reviews": "average store",
+    "store_rating": "5 stars",
+    "store_review": "5 stars",
+    "no_of_comparisons": "8",
+    "description": "this product is useful in garden",
+    "image_url": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RSO2772/2-800x800.jpg"
+  }
+]
