@@ -28,10 +28,6 @@ app.get("/profile", (req, res) => {
   res.render("profile", { data });
 });
 
-app.get("/", (req, res) => {
-  res.render("index");
-});
-
 app.get("/gifts", (req, res) => {
   res.render("gifts", { gifts: jsonData });
 });
